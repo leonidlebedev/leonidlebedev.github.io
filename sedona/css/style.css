@@ -550,8 +550,9 @@ input {
 
 .main-nav__close {
 	position: absolute;
-	top: 17px;
-	right: 6.25%;
+	top: 7px;
+	right: 3%;
+	padding: 10px;
 	fill: #ffffff;
 	z-index: 10;
 	cursor: pointer;
