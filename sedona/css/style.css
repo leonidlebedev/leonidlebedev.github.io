@@ -931,6 +931,8 @@ input {
 .find-hotel__btn {
 	display: block;
 	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
 	padding-top: 16px;
 	padding-bottom: 16px;
 	font-size: 21px;
